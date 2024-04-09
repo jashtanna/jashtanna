@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jashtanna
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning React.JS
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently learning Golang React.Js 
 - 📫 How to reach me @jashtanna22@gmail.com
 
 <!---
